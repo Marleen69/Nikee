@@ -1,0 +1,124 @@
+[
+  {
+    "id": "air-max-pulse",
+    "name": "Air Max Pulse",
+    "category": "Кроссовки",
+    "type": "shoes",
+    "price": 16990,
+    "sizes": ["38", "39", "40", "41", "42", "43"],
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+    "tag": "New",
+    "colors": ["black", "white"],
+    "description": "Максимальная амортизация и легкость в каждом шаге.",
+    "gallery": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "pegasus-trail-5",
+    "name": "Pegasus Trail 5",
+    "category": "Кроссовки трейл",
+    "type": "shoes",
+    "price": 14290,
+    "sizes": ["39", "40", "41", "42", "43", "44"],
+    "image": "https://avatars.mds.yandex.net/i?id=ddcad0199501e26b1af8d5e4fb8a7c5d03500f1d-16457653-images-thumbs&n=13",
+    "tag": "Trail",
+    "colors": ["gray"],
+    "description": "Зацеп и стабильность для пересеченной местности.",
+    "gallery": [
+      "https://avatars.mds.yandex.net/i?id=ddcad0199501e26b1af8d5e4fb8a7c5d03500f1d-16457653-images-thumbs&n=13"
+    ]
+  },
+  {
+    "id": "metcon-9",
+    "name": "Metcon 9",
+    "category": "Тренировки",
+    "type": "shoes",
+    "price": 12990,
+    "sizes": ["38", "39", "40", "41", "42"],
+    "image": "https://s3.amazonaws.com/nikeinc/assets/60181/DSC_4365-2-1_hd_1600.jpg?1468008696",
+    "tag": "Gym",
+    "colors": ["white"],
+    "description": "Стабильность и фиксация для кроссфита и зала.",
+    "gallery": [
+      "https://s3.amazonaws.com/nikeinc/assets/60181/DSC_4365-2-1_hd_1600.jpg?1468008696"
+    ]
+  },
+  {
+    "id": "tech-fleece-hoodie",
+    "name": "Tech Fleece Hoodie",
+    "category": "Худи",
+    "type": "apparel",
+    "price": 11990,
+    "sizes": ["S", "M", "L", "XL"],
+    "image": "https://avatars.mds.yandex.net/i?id=fdc1668dcc156cd46187b05bd82cf71186d5a1fb-16545970-images-thumbs&n=13",
+    "tag": "Drop",
+    "colors": ["gray"],
+    "description": "Теплый и легкий флис для города и спорта.",
+    "gallery": [
+      "https://avatars.mds.yandex.net/i?id=fdc1668dcc156cd46187b05bd82cf71186d5a1fb-16545970-images-thumbs&n=13"
+    ]
+  },
+  {
+    "id": "dri-fit-tee",
+    "name": "Dri-FIT Tee",
+    "category": "Футболка",
+    "type": "apparel",
+    "price": 3990,
+    "sizes": ["S", "M", "L", "XL"],
+    "image": "https://avatars.mds.yandex.net/i?id=baa42a11ff38ad565fdc48fb84823f7852e4d17e-5185538-images-thumbs&n=13",
+    "tag": "Dry",
+    "colors": ["white", "black"],
+    "description": "Дышащая ткань с быстрым отводом влаги.",
+    "gallery": [
+      "https://avatars.mds.yandex.net/i?id=baa42a11ff38ad565fdc48fb84823f7852e4d17e-5185538-images-thumbs&n=13"
+    ]
+  },
+  {
+    "id": "club-fleece-pants",
+    "name": "Club Fleece Pants",
+    "category": "Брюки",
+    "type": "apparel",
+    "price": 6990,
+    "sizes": ["S", "M", "L", "XL"],
+    "image": "https://avatars.mds.yandex.net/i?id=d761d1e3a5ebe303a28645d1aad0f2d2c6d94b86-9182238-images-thumbs&n=13",
+    "tag": "Warm",
+    "colors": ["black"],
+    "description": "Уютный флис с конусным кроем.",
+    "gallery": [
+      "https://avatars.mds.yandex.net/i?id=d761d1e3a5ebe303a28645d1aad0f2d2c6d94b86-9182238-images-thumbs&n=13"
+    ]
+  },
+  {
+    "id": "windrunner",
+    "name": "Windrunner Jacket",
+    "category": "Ветровка",
+    "type": "jackets",
+    "price": 10990,
+    "sizes": ["S", "M", "L", "XL"],
+    "image": "https://avatars.mds.yandex.net/i?id=b05562a6db96ed055429a668964e7b92f58b6379-4418494-images-thumbs&n=13",
+    "tag": "Shield",
+    "colors": ["blue"],
+    "description": "Легендарная ветровка с защитой от ветра и дождя.",
+    "gallery": [
+      "https://avatars.mds.yandex.net/i?id=b05562a6db96ed055429a668964e7b92f58b6379-4418494-images-thumbs&n=13"
+    ]
+  },
+  {
+    "id": "repel-puffer",
+    "name": "Repel Puffer",
+    "category": "Пуховик",
+    "type": "jackets",
+    "price": 15990,
+    "sizes": ["S", "M", "L", "XL"],
+    "image": "https://avatars.mds.yandex.net/i?id=6dca93ab1ed49f70c1c0b6117f5a447bf3fa5078-5869613-images-thumbs&n=13",
+    "tag": "Warm",
+    "colors": ["black"],
+    "description": "Теплый, но легкий пуховик с влагостойкой пропиткой.",
+    "gallery": [
+      "https://avatars.mds.yandex.net/i?id=6dca93ab1ed49f70c1c0b6117f5a447bf3fa5078-5869613-images-thumbs&n=13"
+    ]
+  }
+]
+
